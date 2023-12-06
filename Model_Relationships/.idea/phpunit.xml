@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="$PROJECT_DIR$/one-to-many-relationship/tests/Unit" />
+        <option value="$PROJECT_DIR$/one-to-many-relationship/tests/Feature" />
+        <option value="$PROJECT_DIR$/one-to-one-relationship/tests/Unit" />
+        <option value="$PROJECT_DIR$/one-to-one-relationship/tests/Feature" />
+      </list>
+    </option>
+  </component>
+</project>
